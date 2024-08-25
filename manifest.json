@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Jambofy",
+  "name": "Kaitoify",
   "version": "2.0.0",
-  "description": "Improves boring youtube thumbnails by adding Jambo the cat.",
+  "description": "Improves boring youtube thumbnails by adding Kaito shark boy shark shark.",
   "host_permissions": [ "https://www.youtube.com/*"],
   "content_scripts":
   [
