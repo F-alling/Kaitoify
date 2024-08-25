@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Kaitoify",
   "version": "2.0.0",
-  "description": "Improves boring youtube thumbnails by adding Kaito shark boy shark shark.",
+  "description": "Improves boring youtube thumbnails by adding Kaito shark boy shark shark. (ripoff of github.com/LiamHarrison25/Jambofy-Extension)",
   "host_permissions": [ "https://www.youtube.com/*"],
   "content_scripts":
   [
